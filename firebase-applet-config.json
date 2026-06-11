@@ -1,10 +1,9 @@
 {
-  "projectId": "gen-lang-client-0494502645",
-  "appId": "1:468479023874:web:34ec4f30bd1a89232c001b",
-  "apiKey": "AIzaSyA5I7Ibc4ZHGWuCajtzuoGbgqGBFFIASYw",
-  "authDomain": "gen-lang-client-0494502645.firebaseapp.com",
-  "firestoreDatabaseId": "ai-studio-bc1db32a-31fe-4fb5-bf59-9e0fdcf5290c",
-  "storageBucket": "gen-lang-client-0494502645.firebasestorage.app",
-  "messagingSenderId": "468479023874",
+  "projectId": "alpine-agent-497107-u5",
+  "appId": "1:932628966644:web:06c98b98569b1967a4c2a1",
+  "apiKey": "AIzaSyBU8lnhNGZ4dxGrTkwMa7kYmjWJqEJxD1U",
+  "authDomain": "alpine-agent-497107-u5.firebaseapp.com",
+  "firestoreDatabaseId": "ai-studio-4a65b3ee-edb8-450a-932b-dfd81b45f123",
+  "storageBucket": "alpine-agent-497107-u5.firebasestorage.app",
+  "messagingSenderId": "932628966644",
   "measurementId": ""
-}
