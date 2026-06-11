@@ -1,12 +1,10 @@
-
- {
-    "projectId": "elemo-kilxu-database",
-    "appId": "1:724435424563:web:79ace5d828648831619a46",
-  "apiKey": "AIzaSyBVXw-mYy9gwxefzxzOq7_56vHEK9jeQoc",
-"authDomain": "elemo-kilxu-database.firebaseapp.com",
-  "firestoreDatabaseId": "(default)",
-  "storageBucket": "elemo-kilxu-database.firebasestorage.app",
-  "messagingSenderId": "724435424563",
-    "measurementId": ""
-  
+{
+  "projectId": "gen-lang-client-0494502645",
+  "appId": "1:468479023874:web:34ec4f30bd1a89232c001b",
+  "apiKey": "AIzaSyA5I7Ibc4ZHGWuCajtzuoGbgqGBFFIASYw",
+  "authDomain": "gen-lang-client-0494502645.firebaseapp.com",
+  "firestoreDatabaseId": "ai-studio-bc1db32a-31fe-4fb5-bf59-9e0fdcf5290c",
+  "storageBucket": "gen-lang-client-0494502645.firebasestorage.app",
+  "messagingSenderId": "468479023874",
+  "measurementId": ""
 }
